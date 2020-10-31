@@ -26,15 +26,15 @@
 یعنی این برنامه و سازنده آن به هیچ کدام از مکالمات شما ، شماره تلفن وارد شده و ... دسترسی ندارد
 
 
-Download from CafeBazaar :
+دانلود از کافه بازار :
 
 https://cafebazaar.ir/app/ir.akarbasi.whatsappdirect
 
-Download from Myket :
+دانلود از مایکت :
 
 https://myket.ir/app/ir.akarbasi.whatsappdirect
 
-Download from IranApps :
+دانلود از ایران اپس :
 
 https://iranapps.ir/app/ir.akarbasi.whatsappdirect
 
